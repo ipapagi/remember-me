@@ -33,7 +33,7 @@
     "@vaadin/dialog": "23.1.5",
     "@vaadin/email-field": "23.1.5",
     "@vaadin/field-base": "23.1.5",
-    "@vaadin/field-highlighter": "23.1.2",
+    "@vaadin/field-highlighter": "23.1.5",
     "@vaadin/flow-frontend": "./target/flow-frontend",
     "@vaadin/form-layout": "23.1.5",
     "@vaadin/grid": "23.1.5",
@@ -407,6 +407,6 @@
       "workbox-precaching": "6.5.0",
       "workbox-webpack-plugin": "6.5.0"
     },
-    "hash": "8551cf6765e818fc2deb53bc353d9f81de50ea58ed44d6e91c56f141571d93e0"
+    "hash": "770b4afd363f139e949cac9365d834b2078a08cd9c806d6046f14a228cc78713"
   }
 }
